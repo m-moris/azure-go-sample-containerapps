@@ -1,5 +1,7 @@
 # How to Deploy a Go Web Server to Container Apps at Lightning Speed
 
+[日本語のREADMEへ](README_ja.md)
+
 This guide introduces how to deploy a Go web server to Container Apps at lightning speed.
 
 ## Azure Configuration
